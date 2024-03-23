@@ -6,7 +6,7 @@ package survey
 import (
 	"testing"
 
-	"github.com/AlecAivazis/survey/v2/terminal"
+	"github.com/khaitranhq/survey/terminal"
 	expect "github.com/Netflix/go-expect"
 	pseudotty "github.com/creack/pty"
 	"github.com/hinshun/vt10x"

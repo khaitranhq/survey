@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/AlecAivazis/survey/v2"
-	TestUtil "github.com/AlecAivazis/survey/v2/tests/util"
+	"github.com/khaitranhq/survey"
+	TestUtil "github.com/khaitranhq/survey/tests/util"
 )
 
 var answer = ""

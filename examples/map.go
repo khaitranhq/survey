@@ -5,7 +5,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/AlecAivazis/survey/v2"
+	"github.com/khaitranhq/survey"
 )
 
 // the questions to ask
